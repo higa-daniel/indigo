@@ -1,6 +1,6 @@
 # main text of home
 name: Daniel Eiji Higa
-bio: A Man who loves to eat
+bio: A Man who loves food
 
 # twitter summary info
 description: A personal website
@@ -34,29 +34,29 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: higa.daniel
+twitter: higa_
 # google: mygoogle
-# instagram: myinstagram
+instagram: higa_
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: higa-daniel
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+medium: @higa
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: higabyte@gmail.com
 
 authors:
-    johndoe:
+    higa:
         name: Daniel Eiji Higa
-        bio: A Man who travels the world eating noodles
+        bio: A Man who loves food
         external-image: false
         picture: assets/images/profile.jpg
         twitter: higa_
